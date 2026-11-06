@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:42:57.624Z",
+  "generated_at": "2026-11-17T02:42:59.631Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -11,6 +11,45 @@
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-11-04T23:13:44.405Z",
       "last_pushed_at": "2026-11-04T23:13:44.405Z"
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-11-06T03:46:41.040Z",
+      "last_pushed_at": "2026-11-06T03:46:41.040Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-11-06T04:15:39.890Z",
+      "last_pushed_at": "2026-11-06T04:15:39.890Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-06T05:39:56.908Z",
+      "last_pushed_at": "2026-11-06T05:39:56.908Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
